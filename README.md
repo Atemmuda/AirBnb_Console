@@ -25,4 +25,4 @@ Documentation on Command (To know more about a command, use help <command name>)
 ================================================================================
 EOF help quit
 
-@Atemmuda | (contact)[yaw.ayeboahfo@gmail.com]
+@Atemmuda || [contact](yaw.ayeboahfo@gmail.com)
