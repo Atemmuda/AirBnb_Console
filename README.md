@@ -15,13 +15,14 @@ The command interpreter is used to monitor the behaviours of the objects without
 * Execute operation on objects. e.g. Count, compute statistics, etc.
 
 # Installation
-git clone https://github.com/Atemmuda/AirBnb_Console.git
+git clone https://github.com/Atemmuda/AirBnb_Console.git.
 cd AirBnb_console
 
 # How to use the interpreter
 $ ./console.py
 
 Documentation on Command (To know more about a command, use help <command name>)
-========================
+================================================================================
+EOF help quit
 
 @Atemmuda | (contact)[yaw.ayeboahfo@gmail.com]
